@@ -1,0 +1,7 @@
+farm-haystack
+streamlit
+torch
+pytube
+git+https://github.com/openai/whisper.git 
+llama-cpp-python
+cached_property
